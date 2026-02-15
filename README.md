@@ -11,9 +11,6 @@
   <a href="https://linkedin.com/in/camilly-souza" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="32" style="margin-right:12px;"/>
   </a>
-  <a href="https://www.leetcode.com/camillysouza" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="32"/>
-  </a>
 </p>
 
 ---
