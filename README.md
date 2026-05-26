@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Camilly 💻</h1>
 <h3 align="center">CS && CN student. Aspiring Java Backend Developer.</h3>
 
-- 🌱 I’m currently learning **AWS Cloud Services**
+- 🌱 I’m currently learning **Spring Boot | PostGreSQL**
 - 📫 How to reach me: **camillysouza.dev@gmail.com**
 
 ---
