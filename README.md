@@ -1,8 +1,7 @@
-<h1 align="center">Hi, I'm Camilly 💻</h1>
-<h3 align="center">CS && CN student. Aspiring Java Backend Developer.</h3>
+<h1 align="center">Hi, I'm Camilly Souza.</h1>
+<h3 align="center">CS && CN student. Java Backend Developer.</h3>
 
 - 📫 How to reach me: **camillysouza.dev@gmail.com**
-
 ---
 
 ### 🤝 Connect with me
