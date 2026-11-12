@@ -1,33 +1,41 @@
-<h1 align="center">Hi, I'm Camilly Souza.</h1>
-<h3 align="center">CS && CN student. Java Backend Developer.</h3>
+<div align="center">
 
-- 📫 How to reach me: **camillysouza.dev@gmail.com**
----
+<img src="./assets/header.svg" alt="Header">
 
-### 🤝 Connect with me
-<p align="left">
-  <a href="https://linkedin.com/in/camilly-souza" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="32" style="margin-right:12px;"/>
-  </a>
-</p>
+<table>
+<tr>
+<td width="45%" align="center">
 
----
+<img src="https://github.com/CamillypSouza/CamillypSouza/blob/main/assets/girl-coding.gif?raw=true"
+     width="320"
+     alt="Menina programando">
 
-### 🛠 Languages and Tools
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42" style="margin-right:10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="42" style="margin-right:10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="42" style="margin-right:10px;"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="42" style="margin-right:10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="42" style="margin-right:10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="42" style="margin-right:10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42"/>
-</p>
+</td>
+<td width="55%" align="left">
 
----
+<br>
+I build clean, maintainable, and scalable backend solutions with Java, focusing on solid architecture and software quality. Plus a little kick of AI here and there.
 
-### 📊 GitHub Stats
+![Software Engineer](https://img.shields.io/badge/Software%20Engineer-6F42C1?style=flat-square)
+![João Pessoa, Brazil](https://img.shields.io/badge/Jo%C3%A3o%20Pessoa%2C%20Brazil-8B5CF6?style=flat-square)
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=camillypsouza&theme=dark" height="150"/>
-</p>
+<br>
+
+</td>
+</tr>
+</table>
+
+<img src="./assets/skills.svg" alt="Tecnologias e ferramentas">
+
+<img src="./assets/gh-stats.svg" alt="Estatísticas do GitHub">
+
+## Contact.ME
+
+If you'd like to chat about technology, projects, or opportunities, feel free to reach out!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecte--se_comigo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_USUARIO)
+[![Email](https://img.shields.io/badge/Email-Fale_comigo-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@email.com)
+
+<img src="./assets/footer.svg" alt="Footer">
+
+</div>
