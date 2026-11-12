@@ -21,10 +21,8 @@
 </td>
 
 <td width="55%" align="left">
-
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Welcome+to+my+corner+of+the+internet;Backend+development%2C+one+solution+at+a+time+%3A%29;Always+learning%2C+always+building"
-       alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Welcome+to+my+corner+of+the+internet;+One+solution+at+a+time+:);Always+learning%2C+always+building" alt="Typing SVG">
 </a>
 
 <p>
